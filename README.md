@@ -1,7 +1,7 @@
 # Bank Customer Attrition Prediction
 In today's competitive banking landscape, customer retention is a key challenge. Banks invest significant resources in acquiring new customers, but retaining existing ones is just as crucial for long-term profitability. Understanding why customers leave and predicting those at risk can help financial institutions take proactive measures to improve customer satisfaction and reduce attrition.
 1. We will identify key factors that contribute to customer attrition. The analysis on customer data and attrition patterns will provide actionable insights on the areas for improvement to help bank improve retention strategies.
-2. We will build model that predicts customer attrition by classifying customers as "likely to attrition" or "likely to stay" enabling the bank to take preemptive actions to retain valuable customers.
+2. We will build model that predicts customer attrition by classifying customers as "likely to exit" or "likely to stay" enabling the bank to take preemptive actions to retain valuable customers.
 
 ## Dataset 
 Dataset for Bank Customer Attrition Insights extracted from https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights/data
